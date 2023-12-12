@@ -1,0 +1,12 @@
+{'pred_len': 24, 'num_columns': 'DE_load_actual_entsoe_transparency', 'best_model_path': 'lightning_logs/lightning_logs/version_27/checkpoints/epoch=24-step=1250.ckpt'}
+{'pred_len': 48, 'num_columns': 'DE_load_actual_entsoe_transparency', 'best_model_path': 'lightning_logs/lightning_logs/version_28/checkpoints/epoch=21-step=1100.ckpt'}
+{'pred_len': 96, 'num_columns': 'DE_load_actual_entsoe_transparency', 'best_model_path': 'lightning_logs/lightning_logs/version_29/checkpoints/epoch=14-step=750.ckpt'}
+{'pred_len': 192, 'num_columns': 'DE_load_actual_entsoe_transparency', 'best_model_path': 'lightning_logs/lightning_logs/version_30/checkpoints/epoch=12-step=650.ckpt'}
+{'pred_len': 24, 'num_columns': 'DE_solar_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_31/checkpoints/epoch=23-step=1200.ckpt'}
+{'pred_len': 48, 'num_columns': 'DE_solar_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_32/checkpoints/epoch=12-step=650.ckpt'}
+{'pred_len': 96, 'num_columns': 'DE_solar_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_33/checkpoints/epoch=12-step=650.ckpt'}
+{'pred_len': 192, 'num_columns': 'DE_solar_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_34/checkpoints/epoch=14-step=750.ckpt'}
+{'pred_len': 24, 'num_columns': 'DE_wind_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_35/checkpoints/epoch=13-step=700.ckpt'}
+{'pred_len': 48, 'num_columns': 'DE_wind_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_36/checkpoints/epoch=13-step=700.ckpt'}
+{'pred_len': 96, 'num_columns': 'DE_wind_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_37/checkpoints/epoch=10-step=550.ckpt'}
+{'pred_len': 192, 'num_columns': 'DE_wind_generation_actual', 'best_model_path': 'lightning_logs/lightning_logs/version_38/checkpoints/epoch=10-step=550.ckpt'}

@@ -1,0 +1,13 @@
+{'pred_len': 24, 'num_columns': 3, 'best_model_path': 'lightning_logs/lightning_logs/version_39/checkpoints/epoch=13-step=700.ckpt'}
+{'pred_len': 48, 'num_columns': 3, 'best_model_path': 'lightning_logs/lightning_logs/version_40/checkpoints/epoch=18-step=950.ckpt'}
+{'pred_len': 96, 'num_columns': 3, 'best_model_path': 'lightning_logs/lightning_logs/version_41/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 192, 'num_columns': 3, 'best_model_path': 'lightning_logs/lightning_logs/version_42/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 24, 'num_columns': 21, 'best_model_path': 'lightning_logs/lightning_logs/version_43/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 48, 'num_columns': 21, 'best_model_path': 'lightning_logs/lightning_logs/version_47/checkpoints/epoch=12-step=650.ckpt'}
+{'pred_len': 96, 'num_columns': 21, 'best_model_path': 'lightning_logs/lightning_logs/version_48/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 192, 'num_columns': 21, 'best_model_path': 'lightning_logs/lightning_logs/version_49/checkpoints/epoch=10-step=550.ckpt'}
+{'pred_len': 24, 'num_columns': 29, 'best_model_path': 'lightning_logs/lightning_logs/version_52/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 48, 'num_columns': 29, 'best_model_path': 'lightning_logs/lightning_logs/version_53/checkpoints/epoch=12-step=650.ckpt'}
+{'pred_len': 96, 'num_columns': 29, 'best_model_path': 'lightning_logs/lightning_logs/version_54/checkpoints/epoch=11-step=600.ckpt'}
+{'pred_len': 192, 'num_columns': 29, 'best_model_path': 'lightning_logs/lightning_logs/version_55/checkpoints/epoch=10-step=550.ckpt'}
+

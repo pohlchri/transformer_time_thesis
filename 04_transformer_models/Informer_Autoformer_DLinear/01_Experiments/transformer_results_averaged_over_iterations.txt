@@ -1,0 +1,541 @@
+Settings Prints: long_term_forecast__24_df_all_columns_Autoformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.857820
+Overall MAE: 0.609362
+Std. dev. MSE: 0.029267
+Std. dev. MSE: 0.005550
+Settings Prints: long_term_forecast__48_df_all_columns_Autoformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.029776
+Overall MAE: 0.669859
+Std. dev. MSE: 0.025834
+Std. dev. MSE: 0.010120
+Settings Prints: long_term_forecast__96_df_all_columns_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.168193
+Overall MAE: 0.715368
+Std. dev. MSE: 0.019337
+Std. dev. MSE: 0.005985
+Settings Prints: long_term_forecast__192_df_all_columns_Autoformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.251107
+Overall MAE: 0.725573
+Std. dev. MSE: 0.005141
+Std. dev. MSE: 0.005035
+Settings Prints: long_term_forecast__24_DE_load_actual_entsoe_transparency_Autoformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.073011
+Overall MAE: 0.191008
+Std. dev. MSE: 0.004038
+Std. dev. MSE: 0.008582
+Settings Prints: long_term_forecast__48_DE_load_actual_entsoe_transparency_Autoformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.111457
+Overall MAE: 0.236996
+Std. dev. MSE: 0.000987
+Std. dev. MSE: 0.003562
+Settings Prints: long_term_forecast__96_DE_load_actual_entsoe_transparency_Autoformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.126352
+Overall MAE: 0.242135
+Std. dev. MSE: 0.009515
+Std. dev. MSE: 0.017061
+Settings Prints: long_term_forecast__192_DE_load_actual_entsoe_transparency_Autoformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.150120
+Overall MAE: 0.273370
+Std. dev. MSE: 0.001794
+Std. dev. MSE: 0.003161
+Settings Prints: long_term_forecast__24_DE_solar_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.117765
+Overall MAE: 0.217830
+Std. dev. MSE: 0.003361
+Std. dev. MSE: 0.004821
+Settings Prints: long_term_forecast__48_DE_solar_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.144166
+Overall MAE: 0.236060
+Std. dev. MSE: 0.005783
+Std. dev. MSE: 0.004968
+Settings Prints: long_term_forecast__96_DE_solar_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.162111
+Overall MAE: 0.252696
+Std. dev. MSE: 0.002219
+Std. dev. MSE: 0.000457
+Settings Prints: long_term_forecast__192_DE_solar_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.205591
+Overall MAE: 0.292170
+Std. dev. MSE: 0.016636
+Std. dev. MSE: 0.017834
+Settings Prints: long_term_forecast__24_DE_wind_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.089549
+Overall MAE: 0.801636
+Std. dev. MSE: 0.028297
+Std. dev. MSE: 0.009100
+Settings Prints: long_term_forecast__48_DE_wind_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.403787
+Overall MAE: 0.915444
+Std. dev. MSE: 0.016381
+Std. dev. MSE: 0.008055
+Settings Prints: long_term_forecast__96_DE_wind_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.721097
+Overall MAE: 1.019174
+Std. dev. MSE: 0.000464
+Std. dev. MSE: 0.004879
+Settings Prints: long_term_forecast__192_DE_wind_generation_actual_Autoformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.847790
+Overall MAE: 1.056478
+Std. dev. MSE: 0.060587
+Std. dev. MSE: 0.007854
+Settings Prints: long_term_forecast__24_df_most_important_columns_Autoformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.403973
+Overall MAE: 0.422036
+Std. dev. MSE: 0.017226
+Std. dev. MSE: 0.014899
+Settings Prints: long_term_forecast__48_df_most_important_columns_Autoformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.531844
+Overall MAE: 0.480311
+Std. dev. MSE: 0.006420
+Std. dev. MSE: 0.000250
+Settings Prints: long_term_forecast__96_df_most_important_columns_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.685454
+Overall MAE: 0.537361
+Std. dev. MSE: 0.019191
+Std. dev. MSE: 0.012944
+Settings Prints: long_term_forecast__192_df_most_important_columns_Autoformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.716612
+Overall MAE: 0.554534
+Std. dev. MSE: 0.007771
+Std. dev. MSE: 0.003577
+Settings Prints: long_term_forecast__24_df_only_generation_columns_Autoformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.042344
+Overall MAE: 0.696121
+Std. dev. MSE: 0.005982
+Std. dev. MSE: 0.002950
+Settings Prints: long_term_forecast__48_df_only_generation_columns_Autoformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.295210
+Overall MAE: 0.790961
+Std. dev. MSE: 0.015567
+Std. dev. MSE: 0.006721
+Settings Prints: long_term_forecast__96_df_only_generation_columns_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.437715
+Overall MAE: 0.828062
+Std. dev. MSE: 0.015846
+Std. dev. MSE: 0.007160
+Settings Prints: long_term_forecast__192_df_only_generation_columns_Autoformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.532603
+Overall MAE: 0.846252
+Std. dev. MSE: 0.006155
+Std. dev. MSE: 0.004834
+Settings Prints: long_term_forecast__24_df_all_columns_Informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.961224
+Overall MAE: 0.692582
+Std. dev. MSE: 0.040162
+Std. dev. MSE: 0.011638
+Settings Prints: long_term_forecast__48_df_all_columns_Informer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.209836
+Overall MAE: 0.775749
+Std. dev. MSE: 0.004141
+Std. dev. MSE: 0.005286
+Settings Prints: long_term_forecast__96_df_all_columns_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.662490
+Overall MAE: 0.947931
+Std. dev. MSE: 0.119753
+Std. dev. MSE: 0.038746
+Settings Prints: long_term_forecast__192_df_all_columns_Informer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.581899
+Overall MAE: 0.880377
+Std. dev. MSE: 0.040498
+Std. dev. MSE: 0.013436
+Settings Prints: long_term_forecast__24_df_most_important_columns_Informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.297771
+Overall MAE: 0.324180
+Std. dev. MSE: 0.002827
+Std. dev. MSE: 0.000877
+Settings Prints: long_term_forecast__48_df_most_important_columns_Informer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.413523
+Overall MAE: 0.409365
+Std. dev. MSE: 0.005580
+Std. dev. MSE: 0.000969
+Settings Prints: long_term_forecast__96_df_most_important_columns_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.554065
+Overall MAE: 0.453925
+Std. dev. MSE: 0.004638
+Std. dev. MSE: 0.008158
+Settings Prints: long_term_forecast__192_df_most_important_columns_Informer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.599277
+Overall MAE: 0.471450
+Std. dev. MSE: 0.001275
+Std. dev. MSE: 0.001783
+Settings Prints: long_term_forecast__24_df_only_generation_columns_Informer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.809801
+Overall MAE: 0.584945
+Std. dev. MSE: 0.003608
+Std. dev. MSE: 0.005903
+Settings Prints: long_term_forecast__48_df_only_generation_columns_Informer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.162568
+Overall MAE: 0.719662
+Std. dev. MSE: 0.049900
+Std. dev. MSE: 0.010856
+Settings Prints: long_term_forecast__96_df_only_generation_columns_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.259695
+Overall MAE: 0.754697
+Std. dev. MSE: 0.056906
+Std. dev. MSE: 0.033588
+Settings Prints: long_term_forecast__192_df_only_generation_columns_Informer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.342033
+Overall MAE: 0.753217
+Std. dev. MSE: 0.004725
+Std. dev. MSE: 0.003717
+Settings Prints: long_term_forecast__24_DE_load_actual_entsoe_transparency_Informer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.046094
+Overall MAE: 0.139837
+Std. dev. MSE: 0.001004
+Std. dev. MSE: 0.004141
+Settings Prints: long_term_forecast__48_DE_load_actual_entsoe_transparency_Informer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.063507
+Overall MAE: 0.158930
+Std. dev. MSE: 0.001068
+Std. dev. MSE: 0.001743
+Settings Prints: long_term_forecast__96_DE_load_actual_entsoe_transparency_Informer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.074610
+Overall MAE: 0.180887
+Std. dev. MSE: 0.000084
+Std. dev. MSE: 0.000333
+Settings Prints: long_term_forecast__192_DE_load_actual_entsoe_transparency_Informer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.077819
+Overall MAE: 0.186769
+Std. dev. MSE: 0.001138
+Std. dev. MSE: 0.003795
+Settings Prints: long_term_forecast__24_df_all_columns_Pyraformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.876620
+Overall MAE: 0.655774
+Std. dev. MSE: 0.027706
+Std. dev. MSE: 0.011648
+Settings Prints: long_term_forecast__48_df_all_columns_Pyraformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.111354
+Overall MAE: 0.760985
+Std. dev. MSE: 0.002904
+Std. dev. MSE: 0.009342
+Settings Prints: long_term_forecast__96_df_all_columns_Pyraformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.309471
+Overall MAE: 0.831068
+Std. dev. MSE: 0.061372
+Std. dev. MSE: 0.026154
+Settings Prints: long_term_forecast__192_df_all_columns_Pyraformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.379859
+Overall MAE: 0.850182
+Std. dev. MSE: 0.029702
+Std. dev. MSE: 0.009610
+Settings Prints: long_term_forecast__24_df_most_important_columns_Pyraformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.272509
+Overall MAE: 0.315855
+Std. dev. MSE: 0.001442
+Std. dev. MSE: 0.004660
+Settings Prints: long_term_forecast__48_df_most_important_columns_Pyraformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.415257
+Overall MAE: 0.400148
+Std. dev. MSE: 0.015750
+Std. dev. MSE: 0.007273
+Settings Prints: long_term_forecast__96_df_most_important_columns_Pyraformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.515272
+Overall MAE: 0.448295
+Std. dev. MSE: 0.007116
+Std. dev. MSE: 0.000424
+Settings Prints: long_term_forecast__192_df_most_important_columns_Pyraformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.591090
+Overall MAE: 0.481764
+Std. dev. MSE: 0.023724
+Std. dev. MSE: 0.007095
+Settings Prints: long_term_forecast__24_df_only_generation_columns_Pyraformer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.771160
+Overall MAE: 0.575706
+Std. dev. MSE: 0.013144
+Std. dev. MSE: 0.005062
+Settings Prints: long_term_forecast__48_df_only_generation_columns_Pyraformer_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.004011
+Overall MAE: 0.656697
+Std. dev. MSE: 0.007932
+Std. dev. MSE: 0.005755
+Settings Prints: long_term_forecast__96_df_only_generation_columns_Pyraformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.168563
+Overall MAE: 0.717952
+Std. dev. MSE: 0.000730
+Std. dev. MSE: 0.000236
+Settings Prints: long_term_forecast__192_df_only_generation_columns_Pyraformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.365604
+Overall MAE: 0.763599
+Std. dev. MSE: 0.037176
+Std. dev. MSE: 0.011620
+Settings Prints: long_term_forecast__24_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.046539
+Overall MAE: 0.131347
+Std. dev. MSE: 0.000856
+Std. dev. MSE: 0.000259
+Settings Prints: long_term_forecast__48_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.076552
+Overall MAE: 0.164985
+Std. dev. MSE: 0.000032
+Std. dev. MSE: 0.000610
+Settings Prints: long_term_forecast__96_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.105564
+Overall MAE: 0.193747
+Std. dev. MSE: 0.000116
+Std. dev. MSE: 0.000577
+Settings Prints: long_term_forecast__192_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.111480
+Overall MAE: 0.203879
+Std. dev. MSE: 0.000043
+Std. dev. MSE: 0.000201
+Settings Prints: long_term_forecast__24_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.094905
+Overall MAE: 0.160163
+Std. dev. MSE: 0.000299
+Std. dev. MSE: 0.001990
+Settings Prints: long_term_forecast__48_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.126075
+Overall MAE: 0.192806
+Std. dev. MSE: 0.001583
+Std. dev. MSE: 0.008678
+Settings Prints: long_term_forecast__96_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.148893
+Overall MAE: 0.203180
+Std. dev. MSE: 0.000736
+Std. dev. MSE: 0.000000
+Settings Prints: long_term_forecast__192_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.170971
+Overall MAE: 0.222526
+Std. dev. MSE: 0.000285
+Std. dev. MSE: 0.001108
+Settings Prints: long_term_forecast__24_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.619484
+Overall MAE: 0.565845
+Std. dev. MSE: 0.001166
+Std. dev. MSE: 0.000958
+Settings Prints: long_term_forecast__48_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.956417
+Overall MAE: 0.727136
+Std. dev. MSE: 0.010970
+Std. dev. MSE: 0.004732
+Settings Prints: long_term_forecast__96_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.220716
+Overall MAE: 0.827329
+Std. dev. MSE: 0.016692
+Std. dev. MSE: 0.000210
+Settings Prints: long_term_forecast__192_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.368404
+Overall MAE: 0.880890
+Std. dev. MSE: 0.024804
+Std. dev. MSE: 0.002879
+Settings Prints: long_term_forecast__24_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.046539
+Overall MAE: 0.131347
+Std. dev. MSE: 0.000856
+Std. dev. MSE: 0.000259
+Settings Prints: long_term_forecast__48_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.076552
+Overall MAE: 0.164985
+Std. dev. MSE: 0.000032
+Std. dev. MSE: 0.000610
+Settings Prints: long_term_forecast__96_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.105564
+Overall MAE: 0.193747
+Std. dev. MSE: 0.000116
+Std. dev. MSE: 0.000577
+Settings Prints: long_term_forecast__192_DE_load_actual_entsoe_transparency_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.111480
+Overall MAE: 0.203879
+Std. dev. MSE: 0.000043
+Std. dev. MSE: 0.000201
+Settings Prints: long_term_forecast__24_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.094905
+Overall MAE: 0.160163
+Std. dev. MSE: 0.000299
+Std. dev. MSE: 0.001990
+Settings Prints: long_term_forecast__48_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.126075
+Overall MAE: 0.192806
+Std. dev. MSE: 0.001583
+Std. dev. MSE: 0.008678
+Settings Prints: long_term_forecast__96_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.148893
+Overall MAE: 0.203180
+Std. dev. MSE: 0.000736
+Std. dev. MSE: 0.000000
+Settings Prints: long_term_forecast__192_DE_solar_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.170971
+Overall MAE: 0.222526
+Std. dev. MSE: 0.000285
+Std. dev. MSE: 0.001108
+Settings Prints: long_term_forecast__24_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.619484
+Overall MAE: 0.565845
+Std. dev. MSE: 0.001166
+Std. dev. MSE: 0.000958
+Settings Prints: long_term_forecast__48_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.956417
+Overall MAE: 0.727136
+Std. dev. MSE: 0.010970
+Std. dev. MSE: 0.004732
+Settings Prints: long_term_forecast__96_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.220716
+Overall MAE: 0.827329
+Std. dev. MSE: 0.016692
+Std. dev. MSE: 0.000210
+Settings Prints: long_term_forecast__192_DE_wind_generation_actual_Pyraformer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.368404
+Overall MAE: 0.880890
+Std. dev. MSE: 0.024804
+Std. dev. MSE: 0.002879
+Settings Prints: long_term_forecast__24_DE_solar_generation_actual_Informer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.098542
+Overall MAE: 0.166870
+Std. dev. MSE: 0.000589
+Std. dev. MSE: 0.000594
+Settings Prints: long_term_forecast__48_DE_solar_generation_actual_Informer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.127973
+Overall MAE: 0.197108
+Std. dev. MSE: 0.001927
+Std. dev. MSE: 0.003530
+Settings Prints: long_term_forecast__96_DE_solar_generation_actual_Informer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.167272
+Overall MAE: 0.246958
+Std. dev. MSE: 0.000241
+Std. dev. MSE: 0.006648
+Settings Prints: long_term_forecast__192_DE_solar_generation_actual_Informer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.162659
+Overall MAE: 0.225992
+Std. dev. MSE: 0.002409
+Std. dev. MSE: 0.002767
+Settings Prints: long_term_forecast__24_DE_wind_generation_actual_Informer_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.639337
+Overall MAE: 0.576490
+Std. dev. MSE: 0.015164
+Std. dev. MSE: 0.007484
+Settings Prints: long_term_forecast__48_DE_wind_generation_actual_Informer_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.998632
+Overall MAE: 0.734521
+Std. dev. MSE: 0.004485
+Std. dev. MSE: 0.008097
+Settings Prints: long_term_forecast__96_DE_wind_generation_actual_Informer_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.269774
+Overall MAE: 0.836179
+Std. dev. MSE: 0.008459
+Std. dev. MSE: 0.000661
+Settings Prints: long_term_forecast__192_DE_wind_generation_actual_Informer_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.417230
+Overall MAE: 0.890500
+Std. dev. MSE: 0.048655
+Std. dev. MSE: 0.008205
+Settings Prints: long_term_forecast__24_df_all_columns_DLinear_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.669607
+Overall MAE: 0.549854
+Std. dev. MSE: 0.000334
+Std. dev. MSE: 0.000291
+Settings Prints: long_term_forecast__48_df_all_columns_DLinear_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.909781
+Overall MAE: 0.668422
+Std. dev. MSE: 0.000149
+Std. dev. MSE: 0.001042
+Settings Prints: long_term_forecast__96_df_all_columns_DLinear_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.091000
+Overall MAE: 0.744415
+Std. dev. MSE: 0.011589
+Std. dev. MSE: 0.004209
+Settings Prints: long_term_forecast__192_df_all_columns_DLinear_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.265615
+Overall MAE: 0.808319
+Std. dev. MSE: 0.008366
+Std. dev. MSE: 0.001727
+Settings Prints: long_term_forecast__24_df_most_important_columns_DLinear_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.363212
+Overall MAE: 0.409839
+Std. dev. MSE: 0.000002
+Std. dev. MSE: 0.000036
+Settings Prints: long_term_forecast__48_df_most_important_columns_DLinear_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.507329
+Overall MAE: 0.496526
+Std. dev. MSE: 0.000052
+Std. dev. MSE: 0.000111
+Settings Prints: long_term_forecast__96_df_most_important_columns_DLinear_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.602222
+Overall MAE: 0.539878
+Std. dev. MSE: 0.000284
+Std. dev. MSE: 0.000296
+Settings Prints: long_term_forecast__192_df_most_important_columns_DLinear_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.659396
+Overall MAE: 0.562065
+Std. dev. MSE: 0.000039
+Std. dev. MSE: 0.000008
+Settings Prints: long_term_forecast__24_df_only_generation_columns_DLinear_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.792575
+Overall MAE: 0.577380
+Std. dev. MSE: 0.000156
+Std. dev. MSE: 0.000439
+Settings Prints: long_term_forecast__48_df_only_generation_columns_DLinear_custom_ftM_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.023121
+Overall MAE: 0.676313
+Std. dev. MSE: 0.000296
+Std. dev. MSE: 0.000103
+Settings Prints: long_term_forecast__96_df_only_generation_columns_DLinear_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.189578
+Overall MAE: 0.737085
+Std. dev. MSE: 0.001685
+Std. dev. MSE: 0.000350
+Settings Prints: long_term_forecast__192_df_only_generation_columns_DLinear_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.308568
+Overall MAE: 0.773131
+Std. dev. MSE: 0.000122
+Std. dev. MSE: 0.000114
+Settings Prints: long_term_forecast__24_DE_load_actual_entsoe_transparency_DLinear_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.240180
+Overall MAE: 0.356122
+Std. dev. MSE: 0.000046
+Std. dev. MSE: 0.000013
+Settings Prints: long_term_forecast__48_DE_load_actual_entsoe_transparency_DLinear_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.342893
+Overall MAE: 0.444919
+Std. dev. MSE: 0.000001
+Std. dev. MSE: 0.000022
+Settings Prints: long_term_forecast__96_DE_load_actual_entsoe_transparency_DLinear_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.300945
+Overall MAE: 0.396936
+Std. dev. MSE: 0.000041
+Std. dev. MSE: 0.000036
+Settings Prints: long_term_forecast__192_DE_load_actual_entsoe_transparency_DLinear_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.259322
+Overall MAE: 0.353958
+Std. dev. MSE: 0.000001
+Std. dev. MSE: 0.000021
+Settings Prints: long_term_forecast__24_DE_solar_generation_actual_DLinear_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.125688
+Overall MAE: 0.206416
+Std. dev. MSE: 0.000036
+Std. dev. MSE: 0.000084
+Settings Prints: long_term_forecast__48_DE_solar_generation_actual_DLinear_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.151107
+Overall MAE: 0.225263
+Std. dev. MSE: 0.000032
+Std. dev. MSE: 0.000128
+Settings Prints: long_term_forecast__96_DE_solar_generation_actual_DLinear_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.180223
+Overall MAE: 0.245947
+Std. dev. MSE: 0.000015
+Std. dev. MSE: 0.000001
+Settings Prints: long_term_forecast__192_DE_solar_generation_actual_DLinear_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.203203
+Overall MAE: 0.262962
+Std. dev. MSE: 0.000027
+Std. dev. MSE: 0.000083
+Settings Prints: long_term_forecast__24_DE_wind_generation_actual_DLinear_custom_ftS_sl96_ll48_pl24_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.624384
+Overall MAE: 0.574975
+Std. dev. MSE: 0.000820
+Std. dev. MSE: 0.000909
+Settings Prints: long_term_forecast__48_DE_wind_generation_actual_DLinear_custom_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 0.919024
+Overall MAE: 0.710725
+Std. dev. MSE: 0.000440
+Std. dev. MSE: 0.000330
+Settings Prints: long_term_forecast__96_DE_wind_generation_actual_DLinear_custom_ftS_sl96_ll48_pl96_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.174657
+Overall MAE: 0.811062
+Std. dev. MSE: 0.000082
+Std. dev. MSE: 0.000360
+Settings Prints: long_term_forecast__192_DE_wind_generation_actual_DLinear_custom_ftS_sl96_ll48_pl192_dm512_nh8_el2_dl5_df2048_fc5_ebtimeF_dtTrue_Exp_0
+Overall MSE: 1.358591
+Overall MAE: 0.870783
+Std. dev. MSE: 0.000247
+Std. dev. MSE: 0.000043
+
