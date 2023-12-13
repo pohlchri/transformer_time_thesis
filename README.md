@@ -11,14 +11,12 @@
 ## Table of Content
 
 - [Summary](#summary)
-- [Working with the repo](#Working-with-the-repo)
-    - [Dependencies](#Dependencies)
-    - [Setup](#Setup)
+- [Setup](#Setup)
 - [Reproducing results](#Reproducing-results)
     - [Training code](#Training-code)
     - [Evaluation code](#Evaluation-code)
 - [Results](#Results)
-- [Project structure](-Project-structure)
+- [Project structure](#Project-structure)
 
 ## Summary
 
