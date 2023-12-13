@@ -1,8 +1,8 @@
-# Title
+# Potential of transformer time series models for the energy sector
 
 **Type:** Master's Thesis
 
-**Author:** Potential of transformer time series models for the energy sector
+**Author:** Christin Pohl
 
 **1st Examiner:** Prof. Dr. Stefan Lessmann
 
@@ -44,7 +44,7 @@ pip install --upgrade pip
 pip install -r 06_requirements.txt
 ```
 4. Datasets 
-The original data can be loaded from https://data.open-power-system-data.org/time_series/2020-10-06. After this please put the dataset in the 01_datasets folder. Then execute the 02_data_set_prep.ipynb. This will result in three datasets within the 01_datasets folder that are required for the experiments.
+The original data can be loaded from [Open Power System Data] https://data.open-power-system-data.org/time_series/2020-10-06. After this please put the dataset in the 01_datasets folder. Then execute the 02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
 
 ## Reproducing results
 
@@ -63,11 +63,12 @@ After training each notebook also contains code to calculate the performance of 
 
 ## Results
 
-After model training, we test whether models differ significantly from each other. The result plots show any critical differences between models. A critical difference between models is visually larger than one of the black lines. For instance, there is a critical difference between all models and the naive model. There is no critical difference between Informer and DLinear. 
+After model training, we test whether models differ significantly from each other. The result plots show any critical differences between models. A critical difference between models is visually larger than one of the black lines. For instance, there is a critical difference between all models and the naive model. There is no critical difference between Informer and DLinear. Informer is critically different than all other models except for DLinear. The three transformer models Informer, Autoformer and Temporal Fusion Transformer are all critically different.
 
 ![results](/critical_difference_diagram.png)
 
 ## Project structure
+This only contains the folder structure and the ipynb notebooks. Further files such as results files or model saving folders are created during training. 
 
 ```bash
 ├── README.md
@@ -76,13 +77,13 @@ After model training, we test whether models differ significantly from each othe
 ├── 03_baseline_models                                                -- Baseline models: Naive model, ARIMA, VAR
     ├── baseline_models.ipynb
 ├── 04_transformer_models
-    ├── Informer_Autoformer_DLinear                                   -- Contains everything needed for Informer, Autoformer and DLinear
+    ├── Informer_Autoformer_DLinear                                   -- Contains everything related to Informer, Autoformer and DLinear
         ├── 01_Experiments
             ├── Informer_Autoformer_DLinear.ipynb
-    ├── TFT                                                           -- Contains everything needed for Temporal Fusion Transformer
+    ├── TFT                                                           -- Contains everything related to Temporal Fusion Transformer
             ├── Seasonal_plot.ipynb
             ├── TFT_multivariate.ipynb
             ├── TFT_univariate_with_hyperparameters.ipynb
             ├── TFT_univariate.ipynb
-├── 05_result_comparison.ipynb                                        -- Friedman Test and Post-Hoc Test to test model differences
+├── 05_result_comparison.ipynb                                        -- Friedman Test and Post-Hoc Test to access model differences
 ├── critical_difference_diagram.png
