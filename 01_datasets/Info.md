@@ -1,0 +1,1 @@
+Please download the data from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06) and put it in this folder.
