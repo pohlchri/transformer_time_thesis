@@ -42,26 +42,29 @@ pip install --upgrade pip
 pip install -r 06_requirements.txt
 ```
 4. Datasets 
-The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the 02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
+The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the (02_data_set_prep.ipynb)02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
 
 ## Reproducing results
 
 ### Training code
 
-All training code for the models are in the repository. There are three notebooks relevant to training.
-1. To train the simple baseline models (naive model, ARIMA model and VAR model) execute 03_baseline_models/baseline_models.ipynb. 
+All training code for the models are in the repository. There are three notebooks relevant to training. There are a total of seven models implemented: Naive model, VAR, ARIMA, DLinear, Informer, Autoformer and Temporal Fusion Transformer.
 
-2. For Informer, Autoformer, and DLinear execute 04_transformer_models/Informer_Autoformer_DLinear/01_Experiments/Informer_Autoformer_DLinear.ipynb.
+1. To train the simple baseline models (naive model, ARIMA model, and VAR model), execute [baseline_models.ipynb](03_baseline_models/baseline_models.ipynb). 
 
-3. For Temporal Fusion Transformer execute the three notebooks under 04_transformer_models/TFT. Two notebooks are for the univariate case (with and without) hyperparameter tuning. One notebook is for the multivariate case. 
+2. For Informer, Autoformer, and DLinear execute [Informer_Autoformer_DLinear.ipynb](04_transformer_models/Informer_Autoformer_DLinear/01_Experiments/Informer_Autoformer_DLinear.ipynb).
+
+3. For Temporal Fusion Transformer execute the three notebooks under [TFT](04_transformer_models/TFT). Two notebooks are for the univariate case (with and without) hyperparameter tuning. One notebook is for the multivariate case. 
 
 ### Evaluation code
 
-After training, each notebook also contains code to calculate the performance of the models (in the same notebooks as outlined above). If you require the pre-trained models and prediction results please write me an e-mail. They are too large to put them all on GitHub.
+After training, each notebook also contains code to calculate the performance of the models (in the same notebooks as outlined above). If you require the pre-trained models and prediction results, please write me an e-mail. They are too large to put them all on GitHub.
 
 ## Results
 
-After model training, we test whether the models differ significantly from each other. The result plots show any critical differences between models. A critical difference between models is visually larger than one of the black lines. For instance, there is a critical difference between all models and the naive model. There is no critical difference between Informer and DLinear. Informer is critically different than all other models except for DLinear. The three transformer models Informer, Autoformer, and Temporal Fusion Transformer are all critically different.
+After model training, we test whether the models differ significantly from each other. The result plots show any critical differences between models. A critical difference between models is visually larger than one of the black lines. For instance, there is a critical difference between all models and the naive model. There is no critical difference between Informer and DLinear. Informer is critically different than all other models except for DLinear. The three transformer models Informer, Autoformer, and Temporal Fusion Transformer are all critically different. 
+
+Transformer models are superior in the univariate setting, while a simple VAR is successful in the multivariate setting. Therefore, general statements about the superiority of transformer models compared to naive baseline models cannot be made. It depends on the individual transformer model and use case
 
 ![results](/critical_difference_diagram.png)
 
@@ -78,7 +81,7 @@ This only contains the folder structure and the ipynb notebooks. Further files, 
     ├── Informer_Autoformer_DLinear                                   -- Contains everything related to Informer, Autoformer and DLinear
         ├── 01_Experiments
             ├── Informer_Autoformer_DLinear.ipynb
-    ├── TFT                                                           -- Contains everything related to Temporal Fusion Transformer
+            ├── TFT                                                   -- Contains everything related to Temporal Fusion Transformer
             ├── Seasonal_plot.ipynb
             ├── TFT_multivariate.ipynb
             ├── TFT_univariate_with_hyperparameters.ipynb
