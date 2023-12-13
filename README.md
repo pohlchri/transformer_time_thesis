@@ -44,7 +44,7 @@ pip install --upgrade pip
 pip install -r 06_requirements.txt
 ```
 4. Datasets 
-The original data can be loaded from [Open Power System Data] (https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the 02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
+The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the 02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
 
 ## Reproducing results
 
