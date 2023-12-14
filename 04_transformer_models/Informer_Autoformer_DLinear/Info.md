@@ -1,0 +1,1 @@
+Thanks to https://github.com/thuml/Time-Series-Library for providing a repository with the implementations of Informer, Autoformer and DLinear. The repository is cloned here and slighty adopted. The experiments we have written are found in the 01_Experiment folder.
