@@ -41,14 +41,14 @@ source env/bin/activate
 pip install --upgrade pip
 pip install -r 06_requirements.txt
 ```
-4. Datasets 
-The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the [02_data_set_prep.ipynb](02_data_set_prep.ipynb). This will result in three new datasets within the 01_datasets folder that are required for the experiments.
+4. Datasets\
+The original data can be loaded from [Open Power System Data time_series_60min_singleindex.csv](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the [02_data_set_prep.ipynb](02_data_set_prep.ipynb). This will result in three new datasets within the 01_datasets folder that are required for the experiments.
 
 ## Reproducing results
 
 ### Training code
 
-All training code for the models are in the repository. There are three notebooks relevant to training. There are a total of seven models implemented: Naive model, VAR, ARIMA, DLinear, Informer, Autoformer and Temporal Fusion Transformer.
+All training code for the models are in the repository. There are three subfolders relevant to training. There are a total of seven models implemented: Naive model, VAR, ARIMA, DLinear, Informer, Autoformer, and Temporal Fusion Transformer.
 
 1. To train the simple baseline models (naive model, ARIMA model, and VAR model), execute [baseline_models.ipynb](03_baseline_models/baseline_models.ipynb). 
 
@@ -81,7 +81,7 @@ This only contains the folder structure and the ipynb notebooks. Further files, 
     ├── Informer_Autoformer_DLinear                                   -- Contains everything related to Informer, Autoformer and DLinear
         ├── 01_Experiments
             ├── Informer_Autoformer_DLinear.ipynb
-            ├── TFT                                                   -- Contains everything related to Temporal Fusion Transformer
+    ├── TFT                                                           -- Contains everything related to Temporal Fusion Transformer
             ├── Seasonal_plot.ipynb
             ├── TFT_multivariate.ipynb
             ├── TFT_univariate_with_hyperparameters.ipynb
