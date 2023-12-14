@@ -42,7 +42,7 @@ pip install --upgrade pip
 pip install -r 06_requirements.txt
 ```
 4. Datasets 
-The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the (02_data_set_prep.ipynb)02_data_set_prep.ipynb. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
+The original data can be loaded from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06). After this, please put the dataset in the 01_datasets folder. Then execute the (02_data_set_prep.ipynb)[02_data_set_prep.ipynb]. This will result in three new datasets within the 01_datasets folder that are required for the experiments.
 
 ## Reproducing results
 
@@ -64,7 +64,7 @@ After training, each notebook also contains code to calculate the performance of
 
 After model training, we test whether the models differ significantly from each other. The result plots show any critical differences between models. A critical difference between models is visually larger than one of the black lines. For instance, there is a critical difference between all models and the naive model. There is no critical difference between Informer and DLinear. Informer is critically different than all other models except for DLinear. The three transformer models Informer, Autoformer, and Temporal Fusion Transformer are all critically different. 
 
-Transformer models are superior in the univariate setting, while a simple VAR is successful in the multivariate setting. Therefore, general statements about the superiority of transformer models compared to naive baseline models cannot be made. It depends on the individual transformer model and use case
+Transformer models are superior in the univariate setting, while a simple VAR is successful in the multivariate setting. The thesis also stresses the importance of hyperparameter tuning. Further, for energy use cases, a rolling test window should be used, since RMSE fluctuates significantly between seasons. Therefore, general statements about the superiority of transformer models compared to naive baseline models cannot be made. It depends on the individual transformer model and use case. 
 
 ![results](/critical_difference_diagram.png)
 
